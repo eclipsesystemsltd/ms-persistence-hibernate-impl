@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+	<table name="contact">
+		<column>name</column>
+		<column>description</column>
+		<row>
+		<value>Jimmy</value>
+		<value>Available</value>
+		</row>
+	</table>
+	<table name="contact">
+		<column>name</column>
+		<column>description</column>
+		<row>
+		<value>Susie</value>
+		<value>Available</value>
+		</row>
+	</table>
+	<table name="contact">
+		<column>name</column>
+		<column>description</column>
+		<row>
+		<value>Bobby</value>
+		<value>Available</value>
+		</row>
+	</table>
+</dataset>
